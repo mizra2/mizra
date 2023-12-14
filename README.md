@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Utility Bot](https://github.com/mizra2/utility-bot)
 
-- 🌱 I’m currently learning **Computer Systems & Software Modelling and Design**
+- 🌱 Recent Gradaute From The University Of Melbourne!
 
 - 👨‍💻 All of my projects are available at [https://github.com/mizra2](https://github.com/mizra2)
 
